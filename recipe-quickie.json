@@ -1,0 +1,46 @@
+{
+   "data": [
+      {
+         "ingredients": [
+            "potato",
+            "egg"
+         ],
+         "recipe": "**Potato & Egg Patties**\n\n**Ingredients:**\n\n*   Potato: 1 large\n*   Egg: 2\n\n**Instructions:**\n\n1.  Boil the potato until fork-tender.\n2.  Once cooled, peel and mash the potato.\n3.  Crack the eggs into the mashed potato.\n4.  Mix well to combine the potato and egg.\n5.  Heat a lightly oiled pan over medium heat.\n6.  Spoon spoonfuls of the potato mixture onto the pan.\n7.  Flatten the spoonfuls into patties.\n8.  Cook for approximately 3-4 minutes per side, or until golden brown and cooked through.\n\n**Estimated Time:**\n\n*   Preparation: 15 minutes\n*   Cooking: 8-10 minutes\n\n**Serving Size:**\n\n*   1-2 patties per serving\n",
+         "title": "Potato & Egg Patties",
+         "recipe_id": "WR363LPG",
+         "id": 232561717453593081
+      },
+      {
+         "ingredients": [
+            "chicken",
+            "oil"
+         ],
+         "recipe": "**Simple Fried Chicken**\n\n**Ingredients:**\n\n*   Chicken (cut into pieces): 1 whole chicken (approx. 3-4 lbs), or equivalent in pieces\n*   Oil (for frying): 2-3 cups\n\n**Instructions:**\n\n1.  Rinse chicken pieces and pat dry with paper towels.\n2.  Heat oil in a deep pot or Dutch oven to 350°F (175°C). Use a thermometer to ensure the correct temperature.\n3.  Carefully place chicken pieces into the hot oil, ensuring not to overcrowd the pot. Fry in batches if necessary.\n4.  Fry chicken for approximately 20-25 minutes, or until golden brown and the internal temperature reaches 165°F (74°C).\n5.  Remove chicken from the oil and place on a wire rack or paper towels to drain excess oil.\n\n**Estimated Time:**\n\n*   Preparation: 15 minutes\n*   Cooking: 20-25 minutes\n\n**Serving Size:**\n4-6 servings\n",
+         "title": "Simple Fried Chicken",
+         "recipe_id": "39UXP7TT",
+         "id": 399396580234650536
+      },
+      {
+         "ingredients": [
+            "tomato",
+            "egg",
+            "bread"
+         ],
+         "recipe": "**Tomato Egg Toast**\n\n**Ingredients:**\n\n*   1 medium tomato\n*   2 large eggs\n*   2 slices bread\n\n**Instructions:**\n\n1.  Slice the tomato into ¼-inch thick rounds.\n2.  Toast the bread to your desired level of doneness.\n3.  Fry or poach the eggs to your preference.\n4.  Place the toasted bread on a plate.\n5.  Top each slice of toast with a fried or poached egg.\n6.  Arrange tomato slices around the eggs on the toast.\n\n**Estimated Time:**\n\n*   Preparation time: 5 minutes\n*   Cooking time: 5-7 minutes\n**Serving Size:** 1 serving\n",
+         "title": "Tomato Egg Toast",
+         "recipe_id": "1PZSPEHN",
+         "id": 331690155328758389
+      },
+      {
+         "ingredients": [
+            "chicken",
+            "egg",
+            "potato"
+         ],
+         "recipe": "**Chicken, Potato, and Egg Hash**\n\n**Ingredients:**\n\n*   1 pound boneless, skinless chicken breast, diced\n*   2 medium potatoes, diced\n*   2 large eggs\n*   Salt and pepper to taste\n*   Cooking oil (for frying)\n\n**Instructions:**\n\n1.  Heat a small amount of cooking oil in a large skillet over medium heat.\n2.  Add diced potatoes and cook, stirring occasionally, until softened and slightly browned (about 10-15 minutes).\n3.  Add diced chicken to the skillet and cook until chicken is cooked through and browned, stirring frequently (about 8-10 minutes).\n4.  Season the chicken and potato mixture with salt and pepper.\n5.  Create two wells in the hash. Crack one egg into each well.\n6.  Cook eggs to desired doneness (e.g., over easy or over medium).\n7.  Carefully serve the hash with an egg on top.\n\n**Estimated Time:**\n\n*   Preparation time: 15 minutes\n*   Cooking time: 25-30 minutes\n\n**Serving Size:** 2\n",
+         "title": "Chicken, Potato, and Egg Hash",
+         "recipe_id": "WPNZTKJZ",
+         "id": 166651831565684934
+      }
+   ]
+}
