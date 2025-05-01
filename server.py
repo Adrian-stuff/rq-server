@@ -19,9 +19,7 @@ load_dotenv()
 
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 if not GOOGLE_API_KEY:
-    raise ValueError(
-        "GOOGLE_API_KEY environment variable is not set.  Please set it in a .env file."
-    )
+    raise ValueError("no api key")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 
@@ -36,7 +34,7 @@ def generate_recipe(ingredients):
         prompt += "- List of ingredients with quantities\n"
         prompt += "- Step-by-step instructions\n"
         prompt += "- Estimated preparation and cooking time\n"
-        prompt += "- Serving size"  # Added serving size
+        prompt += "- Serving size"
         prompt += "Do not include any personal opinions or commentary.  Just the facts."
 
         response = model.generate_content(prompt)
